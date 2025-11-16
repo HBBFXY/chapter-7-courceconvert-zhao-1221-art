@@ -1,8 +1,8 @@
 # 这个文件是要转换大小写的文件
-import random
-ls=[]
-random.seed(10)
-for i in range(10):
-    a=random.randint(0,100)
-    ls.append(a)
-print(ls)
+import RANDOM
+LS=[]
+RANDOM.SEED(10)
+for I IN RANGE(10):
+    A=RANDOM.RANDINT(0,100)
+    LS.APPEND(A)
+PRINT(LS)
